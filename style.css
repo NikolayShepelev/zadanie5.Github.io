@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+/*ФОРМА*/
+.form {
+    margin: 0px 0px 10px 0px;
+}
+
+/*КАЛЬКУЛЯТОР*/
+.calc {
+    margin: 10px auto;
+    color: aliceblue;
+}
+
+.calc__title {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 116%;
+    margin-bottom: 5px;
+    color: aliceblue;
+}
+
+/*ПОДВАЛ*/
+.footer {
+    height: 20px;
+    color: aliceblue;
+}
